@@ -1,0 +1,245 @@
+/* Oneformany.com CSS copied and pasted from Squarespace built-in CSS workspace
+
+
+
+/*Site Wide
+----------*/
+
+/* Text Highlight */
+
+.highlight {
+
+background: linear-gradient(180deg,rgba(255,255,255,0) 50%, #c4dba3 5%);
+}
+
+/* Button Font Weight */
+
+.button.sqs-system-button.sqs-editable-button {
+    font-weight: 700;
+  }
+
+/* Form Button Font Weight */
+
+.sqs-block-form .sqs-editable-button {
+    font-weight: 700;
+}
+
+/* Mobile Version
+----------------*/
+
+.header-menu-nav-item a {
+    padding: 0;
+    font-size: 1.4em;
+}
+
+
+/* Home Page By Section Title
+----------------------------*/
+
+/*--Hero Space--*/
+
+/* Title Block */
+
+#block-fdd721489b0c5fe3788e  {
+    text-shadow: 3px 3px 8px 
+     rgba(0,0,0,1);
+    }
+
+/*--Let's Make A Difference Together--*/
+
+/* Title Block */
+
+#block-yui_3_17_2_1_1619593386918_4930 h2{
+    color: #93be57;
+  }
+
+/* MLK Quote */
+
+#block-yui_3_17_2_1_1625253660859_12116 h4{
+  color: #2a718c !important
+}
+
+/*--How We Make A Difference--*/
+
+/* Title Block */
+
+#block-4daab464c10fcbd4344e {
+    text-shadow: 3px 3px 8px 
+     rgba(0,0,0,1);
+    }
+
+/* Social Impact Slogan */
+
+ #block-yui_3_17_2_1_1618344413478_19750 h4{
+    color: #2a718c !important;
+    }
+
+
+
+/*--Goals By The End of 2022--*/
+
+/* Image Hover */
+
+#block-dc21f70d43e002d8f929:hover img {transform: scale(1.1);; transition: .4s;} img{transform: scale(1); transition: .4s;}
+
+#block-7a3b1d152262225c2645:hover img {
+    transform: scale(1.1);; transition: .4s;
+    } img{
+    transform: scale(1); transition: .4s;
+}
+
+#block-5a3e33a1b4b375f37bd7:hover img {
+    transform: scale(1.1);; transition: .4s;
+    } img{transform: scale(1); transition: .4s;
+}
+
+#block-99b865111c896659f43f:hover img {
+    transform: scale(1.1);; transition: .4s;
+    } img{
+    transform: scale(1); transition: .4s;
+}
+
+/* Donate Button */
+
+#block-yui_3_17_2_1_1618287251599_14029:hover {
+    opacity: 0.7;
+
+
+/* Make A Difference Page Headers
+----------------------------*/
+/* Make A Difference CSS */
+
+#block-yui_3_17_2_1_1618256479592_3876  {
+text-shadow: 3px 3px 8px 
+ rgba(0,0,0,1);
+}
+
+/* Volunteer */
+
+#block-5f956fb85f4c6062f886ddf7 {
+    text-shadow: 3px 3px 8px 
+     rgba(0,0,0,1);
+    }
+
+/* Nominate */
+
+#block-75f8965252edd266bfa9 {
+    text-shadow: 3px 3px 8px 
+     rgba(0,0,0,1);
+    }
+
+/* Collaborate */
+
+#block-yui_3_17_2_1_1604006930062_5498 {
+    text-shadow: 3px 3px 8px 
+     rgba(0,0,0,1);
+    }
+
+/* Apply */
+
+#block-30a395ff0b315c3a4747{
+    text-shadow: 3px 3px 8px 
+     rgba(0,0,0,1);
+    }
+
+/* Donate */
+
+#block-9872642b42a1720fe1e1{
+    text-shadow: 3px 3px 8px 
+     rgba(0,0,0,1);
+    }
+    
+
+/* Recipient Partners Page By Section Title
+----------------------------*/
+
+/*--Hero Space--*/
+
+/* Our Recipient Partners Page Header */
+
+#block-yui_3_17_2_1_1618610510463_13096{
+text-shadow: 3px 3px 8px 
+ rgba(0,0,0,1);
+}
+
+/*--JumpStart--*/
+
+/* JumpStart Statistics Graphics */
+
+#block-yui_3_17_2_1_1660591103960_6204:hover img {transform: scale(1.1);; transition: .4s;} img{transform: scale(1); transition: .4s;}
+
+#block-yui_3_17_2_1_1660591103960_7557:hover img {transform: scale(1.1);; transition: .4s;} img{transform: scale(1); transition: .4s;}
+
+#block-yui_3_17_2_1_1660591103960_10154:hover img {transform: scale(1.1);; transition: .4s;} img{transform: scale(1); transition: .4s;}
+
+/*--OFM Millenium Scholarship--*/
+
+/* How We Choose Scholarship Recipients Graphics*/
+
+#block-yui_3_17_2_1_1618295807197_10609:hover img {transform: scale(1.1);; transition: .4s;} img{transform: scale(1); transition: .4s;}
+
+#block-yui_3_17_2_1_1618295807197_11954:hover img {transform: scale(1.1);; transition: .4s;} img{transform: scale(1); transition: .4s;}
+
+#block-yui_3_17_2_1_1618295807197_13303:hover img {transform: scale(1.1);; transition: .4s;} img{transform: scale(1); transition: .4s;}
+
+/*--Bloomerang Donation Form--*/
+
+.btn-group .btn-submit-donation {
+  border: 0px;
+  background-color: #93be57;
+  color: white;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.btn-group {
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px 40px; 
+  background-color: #93be57;
+  width: 30%;
+}
+
+.donation-form .field input, .donation-form .field select, .donation-form .field textarea, .donation-form #card-element {
+  max-width: 350px !important;
+  width: 100%;
+}
+
+div.field.radio {
+  padding: 5px;
+}
+
+input[type="radio"] {
+  margin-right: 5px;
+}
+
+input[type="checkbox"] {
+  margin-right: 5px;
+}
+
+
+/* Event Landing Page
+----------------------------*/
+.btn-group .btn-submit-interaction {
+  border: 0px;
+  background-color: #93be57;
+  color: white;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding: 5px 20px;
+}
+
+.interaction-form .field input {
+   max-width: 1000px !important;
+  width: 101%;
+}
+
+.interaction-form .field textarea,{
+   max-width: 1000px !important;
+  width: 101%;
+}
+
+.interaction-form .field select{
+   max-width: 1000px !important;
+  width: 102%;
+}
